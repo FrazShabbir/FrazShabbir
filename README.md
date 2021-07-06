@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 You can reach me: fraz.shabbir54@gmail.com
 - --------------------OR--------------------
 - 🌎  You can reach me: https://frazshabbir.com/
-- ⚡ Fun fact: I want to learn more and more
+- ⚡ Fun fact: I want to learn more and more.
