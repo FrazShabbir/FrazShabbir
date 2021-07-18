@@ -11,3 +11,13 @@ Here are some ideas to get you started:
 - --------------------OR--------------------
 - 🌎  You can reach me: https://frazshabbir.com/
 - ⚡ Fun fact: I want to learn more and more.
+
+speciality:
+  Creating Portfolio
+  Creating ERP
+  Creating E-com Store
+  Creating B2B website
+  Creating Blogging website
+  Servers
+  Hosting
+  Domain
