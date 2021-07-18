@@ -12,7 +12,10 @@ Here are some ideas to get you started:
 - 🌎  You can reach me: https://frazshabbir.com/
 - ⚡ Fun fact: I want to learn more and more.
 
-speciality:
+**Experiance**
+- Senior Web Developer @ Essentialsofts.com
+
+**speciality:**
  - Creating Portfolio
  - Creating ERP
  - Creating E-com Store
