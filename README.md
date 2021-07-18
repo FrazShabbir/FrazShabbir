@@ -11,9 +11,12 @@ Here are some ideas to get you started:
 - --------------------OR--------------------
 - 🌎  You can reach me: https://frazshabbir.com/
 - ⚡ Fun fact: I want to learn more and more.
+**Entrepreneur**
 
 **Experiance**
-- Senior Web Developer @ Essentialsofts.com
+- Senior Web Developer @ https://essentialsofts.com/
+- Freelancer
+
 
 **speciality:**
  - Creating Portfolio
