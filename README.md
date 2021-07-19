@@ -26,4 +26,5 @@ Here are some ideas to get you started:
  - Creating Blogging website
  - Servers
  - Hosting
- - Domain
+ - Domains
+ - AWS
