@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 **Experiance**
 - Senior Web Developer @ https://essentialsofts.com/
 - Freelancer
+- upwork
+- fiverr
 
 
 **speciality:**
