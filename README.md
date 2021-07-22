@@ -23,9 +23,7 @@ Here are some ideas to get you started:
 **speciality:**
  - Creating Portfolio
  - Creating ERP
- - Creating E-com Store
- - Creating B2B website
- - Creating Blogging website
+ - Creating E-com Store,B2B,bloging website
  - Servers
  - Hosting
  - Domains
