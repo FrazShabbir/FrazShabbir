@@ -1,12 +1,9 @@
 Hi there 👋 I am Fraz Shabbir
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Laravel, Python Django, Wordpress & Shopify.
+- 🔭 I’m currently working on Laravel, Python Django.
 - 🌱 I’m currently learning New Sklls and Practicing Cloud
 - 🤔 I’m looking for help with What I dont Know
-- 💬 Ask me about Servers , Linux , Frontend and Backend
+- 💬 Ask me about Servers, Linux, Frontend and Backend.
 - 📫 You can reach me: fraz.shabbir54@gmail.com
 - --------------------OR--------------------
 - 🌎  You can reach me: https://frazshabbir.com/
@@ -21,8 +18,12 @@ Here are some ideas to get you started:
 **speciality:**
  - Creating Portfolio
  - Creating ERP
- - Creating E-com Store,B2B,bloging website
+ - Creating E-com Stores ,B2B,bloging websites
  - Servers
  - Hosting
  - Domains
  - AWS
+ 
+**Learning**
+ - React JS
+ - Cloud Computing
