@@ -27,3 +27,4 @@ Hi there 👋 I am Fraz Shabbir
 **Learning**
  - React JS
  - Cloud Computing
+ - Laravel
