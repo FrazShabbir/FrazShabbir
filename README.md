@@ -6,7 +6,7 @@ Hi there 👋 I am Fraz Shabbir
 - 💬 Ask me about Servers, Linux, Frontend and Backend.
 - 📫 You can reach me: fraz.shabbir54@gmail.com
 - --------------------OR--------------------
-- 🌎  You can reach me: https://frazshabbir.com/
+- 🌎  You can reach me and see my projects: https://frazshabbir.com/
 - ⚡ Fun fact: I want to learn more and more.
 **Entrepreneur**
 
