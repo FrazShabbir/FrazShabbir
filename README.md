@@ -19,7 +19,7 @@ Hi there 👋 I am Fraz Shabbir
  - Creating Portfolio
  - Creating ERP
  - Creating E-com Stores ,B2B,bloging websites
- - Servers
+ - Servers Maintanace
  - Hosting
  - Domains
  - AWS
@@ -27,6 +27,4 @@ Hi there 👋 I am Fraz Shabbir
 **Learning**
  - React JS
  - Cloud Computing
- - Laravel
-
 
