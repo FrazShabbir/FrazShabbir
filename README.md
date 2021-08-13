@@ -1,6 +1,6 @@
 Hi there 👋 I am Fraz Shabbir
 
-- 🔭 I’m currently working on Laravel, Python Django.
+- 🔭 I’m currently working in Laravel, Python Django.
 - 🌱 I’m currently learning New Sklls and Practicing Cloud
 - 🤔 I’m looking for help with What I dont Know
 - 💬 Ask me about Servers, Linux, Frontend and Backend.
