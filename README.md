@@ -17,7 +17,6 @@ Recent Projects:
 - Senior Web Developer @ https://essentialsofts.com/
 - Freelancer @ upwork & Fiverr
 
-
 **speciality:**
  - Creating Portfolio
  - Creating ERP
