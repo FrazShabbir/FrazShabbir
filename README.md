@@ -1,7 +1,7 @@
 Hi there 👋 I am Fraz Shabbir
 
 Recent Projects:
-- Ezifolio Where you can create your portfolio website in 5 minutes http://ezifolio.com/
+- Ezifolio Where you can create your portfolio website in 5 minutes https://ezifolio.com/
 
 - 🔭 I’m currently working in Laravel, Python Django.
 - 🌱 I’m currently learning New Sklls and Practicing Cloud
