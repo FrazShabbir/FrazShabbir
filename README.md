@@ -14,7 +14,7 @@ Recent Projects:
 **Entrepreneur**
 
 **Experiance**
-- Senior Web Developer @ https://essentialsofts.com/
+- Senior Web Developer essentialsofts @ https://essentialsofts.com/
 - Freelancer @ upwork & Fiverr
 
 **speciality:**
