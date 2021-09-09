@@ -11,6 +11,7 @@ Recent Projects:
 - --------------------OR--------------------
 - 🌎  You can reach me and see my projects: https://frazshabbir.com/
 - ⚡ Fun fact: I want to learn more and more.
+- 
 **Entrepreneur**
 
 **Experiance**
