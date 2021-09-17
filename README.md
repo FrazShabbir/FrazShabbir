@@ -29,7 +29,7 @@ Recent Projects:
  
 **Learning**
  - React JS
- - Cloud Computing
+
 
 
 
