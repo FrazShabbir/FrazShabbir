@@ -29,7 +29,7 @@ Recent Projects:
  
 **Learning**
  - React JS
- - wordpress (avada )
+ - wordpress (avada)
 
 
 
