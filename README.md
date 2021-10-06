@@ -20,7 +20,6 @@ Recent Projects:
 
 **speciality:**
  - Creating Portfolio
- - Creating ERP
  - Creating E-com Stores ,B2B,blogging websites
  - Servers Maintanace
  - Hosting
