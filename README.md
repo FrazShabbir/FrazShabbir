@@ -26,5 +26,4 @@ Recent Projects:
  - Domains
  - AWS
  
-**Learning**
- - React JS
+
