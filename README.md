@@ -26,4 +26,7 @@ Recent Projects:
  - Domains
  - AWS
  
+ **Projects**
+ Ezifolio
+ PHS
 
