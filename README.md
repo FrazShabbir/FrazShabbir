@@ -27,6 +27,7 @@ Recent Projects:
  - AWS
  
  **Projects**
- Ezifolio
- PHS
+ - Ezifolio
+ - PHS
+ - Project Zero
 
