@@ -25,6 +25,7 @@ Recent Projects:
  - Hosting
  - Domains
  - AWS
+ - Wordpress
  
  **Projects**
  - Ezifolio
