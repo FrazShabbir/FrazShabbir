@@ -13,6 +13,8 @@ Recent Projects:
 - ⚡ Fun fact: I want to learn more and more.
 - 
 **Entrepreneur**
+- Ezifolio
+- Healthportal
 
 **Experiance**
 - Senior Web Developer essentialsofts @ https://essentialsofts.com/
