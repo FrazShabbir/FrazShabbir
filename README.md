@@ -29,7 +29,7 @@ Recent Projects:
  
  **Projects**
  - Ezifolio
- - PHS Now Healthportal.pk
+ - Healthportal.pk
  - Project Zero
  - Kagzienterprises.com
  - overcloths.com
