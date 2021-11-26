@@ -12,8 +12,8 @@ Recent Projects:
 - ⚡ Fun fact: I want to learn more and more.
 - 
 **Entrepreneur**
-- Ezifolio
-- Healthportal
+- Ezifolio.com
+- Healthportal.pk
 
 **Experiance**
 - Full-Stack Web Developer Tech ReFocus @ https://techrefocus.com/
