@@ -20,8 +20,8 @@ Recent Projects:
 - Senior Web Developer essentialsofts @ https://essentialsofts.com/
 - Freelancer @ upwork & Fiverr
 
-**speciality:**
- - Creating Portfolio
+**Specialities:**
+ - Creating Portfolios
  - Creating E-com Stores ,B2B,blogging websites
  - Servers Maintanace
  - Hosting
