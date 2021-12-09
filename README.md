@@ -26,7 +26,7 @@ Recent Projects:
  - Servers Maintanace
  - Hosting
  - Domains
- - AWS
+ - AWS server
  - Wordpress
  
  **Projects**
