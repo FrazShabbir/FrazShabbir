@@ -37,7 +37,6 @@ Recent Projects:
  - overcloths.com
  - crowdfunding  ( just fund )
  - SecretStore.pk ( wordpress - Avada)
- - baburandassociates.com
  - computerops.com
 
 
