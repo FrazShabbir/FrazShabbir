@@ -1,4 +1,4 @@
-Hi there 👋 I am Fraz Shabbir
+Hi there 👋 I am Fraz Shabbir, and I am a student of Computer Science 
 
 Recent Projects:
 - Ezifolio Where you can create your portfolio website in just 5 minutes upload your career and education  details https://ezifolio.com/
