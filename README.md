@@ -15,13 +15,14 @@ Recent Projects:
 - Ezifolio.com
 - Healthportal.pk
 - Inaamghar.com
+
 **Experiance**
 - Full-Stack Web Developer Tech ReFocus @ https://techrefocus.com/
 - Senior Web Developer essentialsofts @ https://essentialsofts.com/
 - Freelancer @ upwork & Fiverr
 
 **Specialities:**
- - Creating Portfolios
+ - Creating Portfolio
  - Creating E-com Stores ,B2B,blogging websites
  - Servers Maintanace
  - Hosting
