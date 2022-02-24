@@ -12,9 +12,9 @@ Recent Projects:
 - ⚡ Fun fact: I want to learn more and more.
 - 
 **Entrepreneur**
-- Ezifolio.com
-- Healthportal.pk
-- Inaamghar.com
+- Ezifolio.com => https://ezifolio.pk
+- Healthportal.pk => https://healthportal.pk
+- Inaamghar.pk => https://inaamghar.pk
 
 **Experiance**
 - Full-Stack Web Developer Tech ReFocus @ https://techrefocus.com/
