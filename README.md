@@ -1,7 +1,8 @@
 Hi there 👋 I am Fraz Shabbir, and I am a student of Computer Science.
 
 **Qualification:**
-- BS-IT University of Gujrat (Pakistan)
+- BS-IT University of Gujrat (Pakistan) 
+
 
 Recent Projects:
 - Ezifolio Where you can create your portfolio website in just 5 minutes upload your career and education  details https://ezifolio.com/
