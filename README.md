@@ -11,10 +11,10 @@ Recent Projects:
 - 🌱 I’m currently learning New Skills and Practicing Cloud
 - 💬 Ask me about Servers, Linux, Frontend and Backend.
 - 📫 You can reach me: fraz.shabbir54@gmail.com
-- --------------------OR--------------------
+ --------------------OR--------------------
 - 🌎  You can reach me and see my projects: https://frazshabbir.com/
 - ⚡ Fun fact: I want to learn more and more.
-- 
+
 **Entrepreneur**
 - Ezifolio.com => https://ezifolio.pk
 - Healthportal.pk => https://healthportal.pk
