@@ -36,7 +36,6 @@ Recent Projects:
  - Wordpress
  
  **Projects**
- - dubaidesertsafariguides.com
  - Ezifolio
  
 
