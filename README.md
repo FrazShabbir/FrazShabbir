@@ -7,8 +7,8 @@ Hi there 👋 I am Fraz Shabbir, and I am a student of Computer Science.
 Recent Projects:
 - Ezifolio Where you can create your portfolio website in just 5 minutes upload your career and education  details https://ezifolio.com/
 - I am going to launch A healthportal for Pakistan Hospitals Currently working on this project in my free time.
-- 🔭 I’m currently working in Laravel, Python Django.
-- 🌱 I’m currently learning New Skills and Practicing Cloud
+- 🔭 I’m currently working in Laravel, Python.
+- 🌱 I’m currently learning New Skills and Practicing Cloud.
 - 💬 Ask me about Servers, Linux, Frontend and Backend.
 - 📫 You can reach me: fraz.shabbir54@gmail.com
 - --------------------OR--------------------
@@ -27,7 +27,7 @@ Recent Projects:
 - Web dev @ Wisevision.dev
 
 **Specialities:**
- - Creating Portfolio
+ - Creating Portfolios
  - Creating E-com Stores ,B2B,blogging websites
  - Servers Maintanace
  - Hosting
@@ -36,9 +36,9 @@ Recent Projects:
  - Wordpress
  
  **Projects**
- - Ezifolio
- 
-
+ - Ezifolio.com
+ - inaamghar.pk
+ - healthportal.pk
  - Project Zero
  - Kagzienterprises.com
  - overcloths.com
