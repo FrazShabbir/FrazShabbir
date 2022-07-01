@@ -33,7 +33,7 @@ Recent Projects:
  - Hosting
  - Domains
  - AWS server
- - Wordpress
+ - Wordpress development
  
  **Projects**
  - Ezifolio.com
