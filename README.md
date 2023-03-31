@@ -46,7 +46,7 @@ Recent Projects:
  - overcloths.com
  - crowdfunding  ( just fund )
  - SecretStore.pk ( wordpress - Avada)
- - Dawat-e-Islami ERpp
+ - Dawat-e-Islami ERP
 
 
 
