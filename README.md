@@ -25,7 +25,8 @@ Recent Projects:
 - Full-Stack Web Developer Tech ReFocus @ https://techrefocus.com/
 - Senior Web Developer essentialsofts @ https://essentialsofts.com/
 - Freelancer @ upwork & Fiverr
-- Web dev @ Wisevision.dev
+- Ex Web dev @ Wisevision.dev
+- Web  Developer @ AX Capital Real Estate Dubai
 
 **Specialities:**
  - Creating Portfolios
