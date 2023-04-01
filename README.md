@@ -44,7 +44,7 @@ Recent Projects:
  - Project Zero
  - Kagzienterprises.com
  - overcloths.com
- - crowdfunding  ( just fund )
+ - crowdfunding  ( just fund ) 
  - SecretStore.pk ( wordpress - Avada)
  - Dawat-e-Islami ERP
 
