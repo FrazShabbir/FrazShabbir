@@ -22,6 +22,7 @@ Recent Projects:
 
 
 **Experiance**
+- Web Developer @ AX Capital UAE.
 - Full-Stack Web Developer Tech ReFocus @ https://techrefocus.com/
 - Senior Web Developer essentialsofts @ https://essentialsofts.com/
 - Freelancer @ upwork & Fiverr
