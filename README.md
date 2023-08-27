@@ -43,12 +43,11 @@ Recent Projects:
  **Projects**
  - Ezifolio.com
  - inaamghar.pk
- - healthportal.pk
+ - healthportal.pk/healthportal.com.pk
  - Project Zero
  - Kagzienterprises.com
  - overcloths.com
  - crowdfunding  ( just fund ) 
  - SecretStore.pk ( wordpress - Avada)
  - Dawat-e-Islami ERP
-
 
