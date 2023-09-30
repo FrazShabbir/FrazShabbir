@@ -39,8 +39,6 @@ Recent Projects:
  - AWS server
  - Wordpress development
  - Payment gateways
-
-
  
  **Projects**
  - Ezifolio.com
