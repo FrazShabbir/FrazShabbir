@@ -35,7 +35,6 @@ Recent Projects:
 - Ex Web dev @ Wisevision.dev
 - Web  Developer @ AX Capital Real Estate Dubai
 
-- 
 
 **Specialities:**
  - Creating Portfolios
