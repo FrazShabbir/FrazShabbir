@@ -7,8 +7,7 @@ Hi there 👋 I am Fraz Shabbir, and I am a student of Computer Science.
 - BSIT University of Gujrat (Pakistan) : 2017 - 2021
 
 
-
-Recent Projects:
+**Recent Project:**
 - Ezifolio Where you can create your portfolio website in just 5 minutes upload your career and education  details https://ezifolio.com/
 - I am going to launch A healthportal for Pakistan Hospitals Currently working on this project.
 - 🔭 I’m currently working in Laravel, Python.
@@ -17,7 +16,6 @@ Recent Projects:
 - 📫 You can reach me: fraz.shabbir54@gmail.com
 
 
-- 
 - --------------------OR--------------------
 - 🌎  You can reach me and see my projects: https://frazshabbir.com/
 - ⚡ Fun fact: I want to learn more and more.
