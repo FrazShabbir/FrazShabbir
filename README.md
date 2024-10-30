@@ -1,7 +1,7 @@
 Hi there 👋 I am Fraz Shabbir, and I am a student of Computer Science.
 
 
-
+s
 **Qualifications:**
 
 - BSIT University of Gujrat (Pakistan) : 2017 - 2021
