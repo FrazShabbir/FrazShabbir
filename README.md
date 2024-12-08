@@ -1,7 +1,5 @@
 Hi there 👋 I am Fraz Shabbir, and I am a student of Computer Science.
 
-
-s
 **Qualifications:**
 
 - BSIT University of Gujrat (Pakistan) : 2017 - 2021
@@ -25,10 +23,9 @@ s
 
 
 
-
-**Experiance**
+**Experience**
 - Ex Full-Stack Web Developer Tech ReFocus @ https://techrefocus.com/
-- Ex Senior Web Developer essentialsofts @ https://essentialsofts.com/
+- Ex Senior Web Developer Essentialsofts @ https://essentialsofts.com/
 - Freelancer @ upwork & Fiverr
 - Ex Web dev @ Wisevision.dev
 - Web  Developer @ AX Capital Real Estate Dubai
@@ -37,7 +34,7 @@ s
 **Specialities:**
  - Creating Portfolios
  - Creating E-com Stores ,B2B,blogging websites
- - Servers Maintanace
+ - Servers Maintenace
  - Hosting
  - Domains
  - AWS server
@@ -54,5 +51,3 @@ s
  - crowdfunding  ( just fund ) 
  - SecretStore.pk ( wordpress - Avada)
  - Dawat-e-Islami ERP
- - 
-   
