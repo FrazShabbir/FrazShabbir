@@ -31,10 +31,14 @@ Hi there 👋 I am Fraz Shabbir, and I am a student of Computer Science.
 - Freelancer @ upwork & Fiverr
 - Ex Web dev @ Wisevision.dev
 - Web  Developer @ AX Capital Real Estate Dubai
+- Data Acquisition Engineer @ Stickee By OpenSignal (UK)
 
 
 **Specialities:**
  - Creating Portfolios
+ - Data Extraction
+ - Web Automation
+ - Scraping
  - Creating E-com Stores ,B2B,blogging websites
  - Servers Maintenace
  - Hosting
@@ -42,10 +46,10 @@ Hi there 👋 I am Fraz Shabbir, and I am a student of Computer Science.
  - AWS server
  - Wordpress development
  - Payment gateways
+
  
  **Projects**
  - Ezifolio.com
- - inaamghar.pk
  - healthportal.pk/healthportal.com.pk
  - Project Zero
  - Kagzienterprises.com
@@ -53,3 +57,5 @@ Hi there 👋 I am Fraz Shabbir, and I am a student of Computer Science.
  - crowdfunding  ( just fund ) 
  - SecretStore.pk ( wordpress - Avada)
  - Dawat-e-Islami ERP
+ - MRCCS ERP
+ - Plotxperts.com
